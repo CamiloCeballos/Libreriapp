@@ -1,2 +1,2 @@
 # Libreriapp
-academic practice  web app project 
+practice  web app project 
